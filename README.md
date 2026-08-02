@@ -227,45 +227,80 @@ No other configuration is required.
 
 Shows the application after successfully loading all foods from the API.
 
+![01-load-foods](screenshots/01-load-foods.png)
+
+---
+
 ### 02-view-details.png
 
 Shows the food details modal with complete instructions and ingredients.
+
+![02-view-details](screenshots/02-view-details.png)
+
+---
 
 ### 03-categories.png
 
 Shows the category cards displayed after loading categories from the API.
 
+![03-categories](screenshots/03-categories.png)
+
+---
+
 ### 04-search.png
 
 Shows the search results after typing a query in the search bar.
+
+![04-search](screenshots/04-search.png)
+
+---
 
 ### 05-filter.png
 
 Shows the food grid filtered by a selected category.
 
+![05-filter](screenshots/05-filter.png)
+
+---
+
 ### 06-add-food.png
 
 Shows the Add Food form modal for creating a new food entry.
 
-### 07-create-food.png
+![06-add-food](screenshots/06-add-food.png)
 
-Shows the confirmation message after successfully creating a new food.
+---
+
 
 ### 08-edit-food.png
 
 Shows the Edit Food form modal pre-filled with existing food data.
 
+![08-edit-food](screenshots/08-edit-food.png)
+
+---
+
 ### 09-delete-food.png
 
 Shows the delete confirmation modal before deleting a food.
+
+![09-delete-food](screenshots/09-delete-food.png)
+
+---
 
 ### 10-deleted-food.png
 
 Shows the application state after a food has been successfully deleted.
 
-### 11-invalid-search.png
+![10-deleted-food](screenshots/10-deleted-food.png)
+
+---
+
+### 11. Invalid Search.png
 
 Shows the empty state when a search query returns no matching results.
+
+![11. Invalid Search](screenshots/11.%20Invalid%20Search.png)
 
 ---
 
