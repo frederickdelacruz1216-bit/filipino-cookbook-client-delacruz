@@ -65,7 +65,7 @@ The application features a hero header, sticky navigation, client-side search, c
 ## Folder Structure
 
 ```
-filipino-cookbook-client-casuga/
+filipino-cookbook-client-delacruz/
 │
 ├── index.html           # Main HTML document
 ├── style.css            # Complete stylesheet
